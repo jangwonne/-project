@@ -69,7 +69,7 @@ def user():
     my_username = input('아이디를 입력해주세요.')
     my_password = input('비밀번호를 입력해주세요.')
 
-    members.append(Member(my_name, my_username , my_password))
+    members.append(Member(my_name, my_username, my_password))
 
 
 def post():

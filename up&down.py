@@ -43,4 +43,3 @@ while True:
                     break
         except:
             print('숫자가 맞는지 확인해 주세요.')
-
